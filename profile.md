@@ -25,7 +25,7 @@ Elementary blob detection algorithms.
 ***
 
 ###Human Trained Text Summarizer
-**[Source Code](https://github.com/vighneshbirodkar/summarize) **
+**[Source Code](https://github.com/vighneshbirodkar/summarize)**
 
 As part of our B. Tech final year project attempted producing extractive summaries of articles by training an SVR over a human written summary.
 
