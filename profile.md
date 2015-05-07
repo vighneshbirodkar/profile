@@ -1,6 +1,6 @@
 # Interests
 
-The things which interest me the most are **Computer Vision**, **Robotics**, **Data-Visualization**, **Operating Systems** and **Networking**. I believe the key to debugging and maintainability of machine learning algorithms is effective visualization. I also like the challenge of writing light-weight code for real-time image processing, as required for robots. I also don't mind getting my hands dirty writing low-level C code for OS or network related tasks.
+The things which interest me the most are **Computer Vision**, **Robotics**, **Data-Visualization**, **Operating Systems** and **Networking**. I believe the key to debugging and maintainability of machine learning algorithms is effective visualization. I like the challenge of writing light-weight code for real-time image processing, as required for robots. I also don't mind getting my hands dirty writing low-level C code for OS or network related tasks.
 
 # Projects
 ###   Region Adjacency Graphs for scikit-image
