@@ -4,7 +4,7 @@ The things which interest me the most are **Computer Vision**, **Robotics**, **D
 
 # Projects
 ###   Region Adjacency Graphs for scikit-image
-**[Blog Posts](https://vcansimplify.wordpress.com/tag/RAG/) | [Videos](https://www.dropbox.com/sc/1rmqf3v5tip5d58/AADjpJP8uEhjCFg_qh3MZqiNa) | [Source Code](https://github.com/scikit-image/scikit-image/tree/master/skimage/future/graph)**
+**[Blog Posts](https://vcansimplify.wordpress.com/tag/RAG/) | [Videos](https://www.youtube.com/playlist?list=PLKv8dAEiRFBBhv7Yu5vsAYD0KwRpcauGO) | [Source Code](https://github.com/scikit-image/scikit-image/tree/master/skimage/future/graph)**
 
 As a part of Google Summer of Code 2014, I implemented Region Adjacency Graphs (RAGs) for [scikit-image](http://scikit-image.org/) followed by few segmentation algorithms based on them. I also wrote routines to visualize RAGs on images and used small temporary hacks to visualize the segmentation process(see Videos) step by step.
 
